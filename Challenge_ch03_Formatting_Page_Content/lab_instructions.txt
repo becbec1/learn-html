@@ -14,11 +14,11 @@ X2.	Format paragraphs
              a.	Applies to: intro.htm
              b.	Determine which content should be represented by paragraphs and then format them appropriately. 
 
-3.	Controlling line breaks
+X3.	Controlling line breaks
              a.	Applies to: next.htm
              b.	In the section under “learning web design” there are four recommendations. Each recommendation has an initial sentence followed by descriptive text. Using a line break, format these paragraphs so their initial sentence appears on its own line.
 
-4.	Determining emphasis
+X4.	Determining emphasis
 	     a.	Applies to: next.htm
 	     b.	In the file next.htm examine the four pieces of advice in the Learning Web Design section. Determine how to best emphasize the first line in each paragraph. Think about ways that you could isolate that line or emphasize it in a way that denotes its importance to the rest of the paragraph.
              c.	In the last advice paragraph (“break things”), display the quotes in italics. In the same paragraph, emphasize the last line “Always challenge yourself” so that it’s importance is indicated.
