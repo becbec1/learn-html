@@ -24,7 +24,7 @@ X4.	Determining emphasis
              c.	In the last advice paragraph (“break things”), display the quotes in italics. In the same paragraph, emphasize the last line “Always challenge yourself” so that it’s importance is indicated.
 	     d.	In the list of resources below the advice section, make sure all top-level list items appear in bold.
 			
-5.	Displaying special characters
+X5.	Displaying special characters
 	     a.	Applies to: reference.htm
 	     b.	Scroll down and find the table that displays common named character entities.
 	     c.	Preview the page in a browser, and using the table as a reference, add the appropriate entity into the first table cell to provide an example of that character.
