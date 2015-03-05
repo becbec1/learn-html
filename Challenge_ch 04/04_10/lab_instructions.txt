@@ -10,21 +10,21 @@ X 1.	Determine a structuring strategy.
 2.	Structure pages
              a.	Applies to: all pages
              b.	Using the strategy devised from the structure.htm file, structure each of the remaining files so that the site uses a consistent, logical structure.
-             _into
-             _links
+             _Xinto
+             _Xlinks
              _next
              _reference
-             _structure
+             X_structure
              _syntax
 
 3.	Apply ARIA roles
              a.	Applies to: all pages
              b.	As you are structuring pages, add ARIA roles to elements when appropriate.
-             _into
-             _links
+             X_into
+             _Xlinks
              _next
              _reference
-             _structure
+             X_structure
              _syntax
 
 					
