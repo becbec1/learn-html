@@ -6,8 +6,10 @@
 <link href="_css/styles.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+    <header role="banner">
 <h1>HTML Essential Training</h1>
 <h2>HTML Reference</h2>
+        <nav role="navigation">
 <ul>
   <li><a href="intro.htm" title="Introduction to HTML">Introduction to HTML</a></li>
   <li><a href="syntax.htm" title="HTML syntax">HTML syntax</a></li>
@@ -16,7 +18,14 @@
   <li><a href="reference.htm" title="HTML Reference">HTML reference</a></li>
   <li><a href="next.htm" title="Next steps">Next steps</a></li>
 </ul>
+            </nav>
+        </header>
+    <main role="main">
+        <article role="article">
+            <header>
 <p>On this page you&rsquo;ll find a quick reference to common HTML terms and a table of frequently used <a href="#named">named character entities</a>.</p>
+                </header>
+            <section>
 <h3>HTML Terms</h3>
 <dl>
   <dt>Attribute</dt>
@@ -62,6 +71,8 @@
   <dt>W3C </dt>
   <dd>The W3C, or <b>World Wide Web Consortium</b>, is the standards body responsible for authoring the HTML specification. </dd>
 </dl>
+        </section>
+     <section>
 <table border="1" cellspacing="0" cellpadding="0" summary="A quick reference of named character entities, including an example of the character, a description, and the entity code.">
   <caption>
   <h3 id="named">Common Named Character Entities </h3>
@@ -157,6 +168,11 @@
     <td><b>&amp;mdash;</b></td>
   </tr>
 </table>
+            </section>
+        </article>    
+    </main>
+    <footer role="contentinfo">
 <p>&copy; <a href="http://www.lynda.com" title="lynda.com" target="_blank">lynda.com</a> | follow me and lynda.com on Twitter! <a href="https://twitter.com/jameswillweb" title="Follow me on Twitter">@jameswillweb</a> <a href="https://twitter.com/lynda" title="Follow lynda.com on Twitter">@lyndadotcom</a></p>
+        </footer>
 </body>
 </html>
